@@ -1,0 +1,8 @@
+{
+  "name": "EventTimeline",
+  "version": "1.0.0",
+  "description": "Show events on a timeline",
+  "main": "index.js",
+  "author": "Ashley Karhoff",
+  "license": "MIT"
+}
